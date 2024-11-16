@@ -8,6 +8,7 @@ import (
 func main() {
 	links := []string{
 		"http://google.com",
+		"http://linkedin.com",
 		"http://facebook.com",
 		"http://stackoverflow.com",
 		"http://golang.org",
